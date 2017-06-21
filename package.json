@@ -7,6 +7,9 @@
     "test": "mocha test/*js",
     "prettier": "prettier --single-quote --write index.js test/*js"
   },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
   "keywords": [
     "promise",
     "all",
