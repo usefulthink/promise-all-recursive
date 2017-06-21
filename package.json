@@ -7,6 +7,7 @@
     "test": "mocha test/*js",
     "prettier": "prettier --single-quote --write index.js test/*js"
   },
+  "keywords": ["promise", "all", "recursive"],
   "author": "Martin Schuhfuss <m.schuhfuss@gmail.com>",
   "license": "MIT",
   "devDependencies": {
