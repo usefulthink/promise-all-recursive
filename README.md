@@ -1,4 +1,4 @@
-# promnise-all-recursive
+# promise-all-recursive
 
 > like `Promise.all()`, but for any type and recursive.
 
