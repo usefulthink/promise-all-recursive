@@ -12,6 +12,11 @@
     "all",
     "recursive"
   ],
+  "homepage": "https://github.com/usefulthink/promise-all-recursive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usefulthink/promise-all-recursive"
+  },
   "author": "Martin Schuhfuss <m.schuhfuss@gmail.com>",
   "license": "MIT",
   "devDependencies": {
